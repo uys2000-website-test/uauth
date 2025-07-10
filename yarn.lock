@@ -2249,9 +2249,9 @@ typescript@~5.8.0:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.8.2.tgz#8170b3702f74b79db2e5a96207c15e65807999e4"
   integrity sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ==
 
-"u-auth@https://github.com/uys2000-javascript-package/uauth.git":
+"u-auth@https://github.com/uys2000-javascript-package/uauth":
   version "0.0.1"
-  resolved "https://github.com/uys2000-javascript-package/uauth.git#31249e7ce2ab1dc0381811d799e43c00877c5eb0"
+  resolved "https://github.com/uys2000-javascript-package/uauth#6e6a397e090bc2b685aecc49a0391692e713a32b"
 
 undici-types@~6.21.0:
   version "6.21.0"

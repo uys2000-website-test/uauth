@@ -14,7 +14,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "u-auth": "https://github.com/uys2000-javascript-package/uauth.git",
+    "u-auth": "https://github.com/uys2000-javascript-package/uauth",
     "vue": "^3.5.13"
   },
   "devDependencies": {
