@@ -14,12 +14,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.2",
-    "material-design-icons": "^3.0.1",
-    "pinia": "^3.0.1",
-    "tailwindcss": "^4.1.2",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "u-auth": "file:/home/mehmet/Documents/Code/Service/uauth/",
+    "vue": "^3.5.13"
   },
   "devDependencies": {
     "@playwright/test": "^1.51.1",
@@ -30,7 +26,6 @@
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.5.0",
     "@vue/tsconfig": "^0.7.0",
-    "daisyui": "^5.0.12",
     "eslint": "^9.22.0",
     "eslint-plugin-playwright": "^2.2.0",
     "eslint-plugin-vue": "~10.0.0",
